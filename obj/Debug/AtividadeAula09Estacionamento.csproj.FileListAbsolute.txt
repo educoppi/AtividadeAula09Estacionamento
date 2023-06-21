@@ -1,0 +1,8 @@
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\bin\Debug\AtividadeAula09Estacionamento.exe.config
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\bin\Debug\AtividadeAula09Estacionamento.exe
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\bin\Debug\AtividadeAula09Estacionamento.pdb
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\obj\Debug\AtividadeAula09Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\obj\Debug\AtividadeAula09Estacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\obj\Debug\AtividadeAula09Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\obj\Debug\AtividadeAula09Estacionamento.exe
+C:\Users\Dudu\source\repos\AtividadeAula09Estacionamento\AtividadeAula09Estacionamento\obj\Debug\AtividadeAula09Estacionamento.pdb
